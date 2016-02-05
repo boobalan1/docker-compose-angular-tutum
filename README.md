@@ -1,1 +1,1 @@
-# Docker Compose AngularJS and Tutum — Part 2
+# Docker Compose AngularJS and Tutum — Part 2.
